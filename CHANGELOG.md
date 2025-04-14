@@ -1,9 +1,4 @@
-## 0.0.1
-
-* TODO: Describe initial release.
-
-## [1.0.0] - 2025-04-14
-
+## 0.0.1  - 2025-04-14
 ### Ajouté
 - Algorithme de distance de Levenshtein implémenté en pur Dart
 - Recherche approximative dans une liste de mots
