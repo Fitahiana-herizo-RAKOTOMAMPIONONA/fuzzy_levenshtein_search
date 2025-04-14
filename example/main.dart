@@ -1,4 +1,4 @@
-import 'package:recherche_lenveistein/recherche_lenveistein.dart';
+import 'package:fuzzy_levenshtein_search/src/levenshtein.dart';
 
 void main() {
   final searcher = LevenshteinSearch(

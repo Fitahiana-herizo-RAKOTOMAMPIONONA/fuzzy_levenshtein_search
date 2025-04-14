@@ -1,7 +1,9 @@
-name: recherche_lenveistein
-description: "A new Flutter package project."
+name: fuzzy_levenshtein_search
+description: "Un package Flutter/Dart pour effectuer des recherches approximatives (fuzzy search)
+  dans une liste de chaînes à l'aide de la distance de Levenshtein."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/fuzzy_levenshtein_search.git
+repository: https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/fuzzy_levenshtein_search.git
 
 environment:
   sdk: ^3.7.2
