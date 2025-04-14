@@ -4,6 +4,7 @@ description: "Un package Flutter/Dart pour effectuer des recherches approximativ
 version: 0.0.1
 homepage: https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/fuzzy_levenshtein_search.git
 repository: https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/fuzzy_levenshtein_search.git
+issue_tracker: https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/fuzzy_levenshtein_search/issues
 
 environment:
   sdk: ^3.7.2
