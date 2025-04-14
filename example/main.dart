@@ -4,7 +4,7 @@ void main() {
   final searcher = LevenshteinSearch(
     dataset: ['pomme', 'banane', 'orange', 'raisin', 'pastèque'],
     maxDistance: 2,
-    caseSensitive: false
+    caseSensitive: false,
   );
 
   final results = searcher.search('pamme');
